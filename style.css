@@ -1,0 +1,51 @@
+body {background-color: rgb(0, 0, 0);}
+
+h1 {background-color: rgb(112, 112, 112); font-size: 250%;
+    text-transform: capitalize;
+}
+
+h2 {background-color: rgb(118, 115, 114); font-size: 200%;
+}
+
+h3 {font-size: 150%;} 
+
+p {color: rgb(0, 0, 0); font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size: larger;
+}
+
+a {color: rgb(15, 12, 219);
+  text-decoration: none;
+}
+
+/* This is a comment */
+
+div {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(255, 254, 254);
+}
+
+#main {
+ margin: auto;    
+ width: 75%;  
+ background-color: #E7E3E8
+ 
+}
+
+#priority { 
+text-align: center; 
+width: 75%; 
+margin: auto;  
+background-color: #CBCCD6 
+}
+
+#footer {
+ width: 75%; 
+ text-align: center;  
+ background-color: #91949E;
+ margin: auto;
+}
+
+#container {
+    width: 75%;
+    margin: auto;
+}
